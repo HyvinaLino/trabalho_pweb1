@@ -23,9 +23,4 @@
      }
 
 
-      //Questão 08
-      let num = 20
-      for (let n = 1; n <= num && num >= 0; n++) {
-          document.write(n + ", ");
-
-      }
+    
